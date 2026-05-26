@@ -1,0 +1,8 @@
+interface:
+  display_name: "Memory Management Performance"
+  short_description: "ARC, retain cycles, weak/unowned, NSCache, image memory."
+  brand_color: "#F05138"
+  default_prompt: "Use $memory-management-performance to review this iOS code for performance."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Networking Performance"
+  short_description: "URLSession, HTTP/2, caching, retries, background transfers."
+  brand_color: "#F05138"
+  default_prompt: "Use $networking-performance to review this iOS code for performance."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,4 +1,5 @@
 ---
+name: swift-concurrency-advanced
 description: Swift Structured Concurrency advanced performance expert. Covers Task lifecycle and cancellation, actor isolation and reentrancy, task groups vs async let, custom executors, priority propagation, clock APIs, AsyncSequence patterns, cooperative cancellation, actor contention diagnostics, and Swift Concurrency Instruments. Trigger when reviewing async/await code, actor design, task cancellation handling, AsyncSequence pipelines, or diagnosing concurrency-related hangs and races.
 ---
 

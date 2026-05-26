@@ -4,7 +4,31 @@ Claude Code skills для iOS-разработки, сфокусированны
 
 ## Установка
 
-Скиллы уже лежат в `.claude/skills/` — Claude Code подхватывает их автоматически в этом проекте.
+Установить весь набор одной командой:
+
+```bash
+npx skills add levabond/iOS-ai-performance-skills --all
+```
+
+Или установить только нужные скиллы:
+
+```bash
+npx skills add levabond/iOS-ai-performance-skills --skill swiftui-performance --skill memory-management-performance
+```
+
+CLI спросит, в каких агентов (Claude Code, Codex, Cursor, Gemini, ...) добавить скиллы и куда установить — в текущий проект или глобально.
+
+Если нет `npx`, поставьте Node (`brew install node`); если нет `brew`, сначала [поставьте Homebrew](https://brew.sh).
+
+### Альтернатива
+
+**Claude Code** (ставит весь набор сразу):
+
+```bash
+/plugin install levabond/iOS-ai-performance-skills
+```
+
+Или клонируйте репозиторий и разложите папки скиллов туда, где их ждёт ваш агент.
 
 ## Скиллы
 

@@ -1,0 +1,8 @@
+interface:
+  display_name: "TableView & CollectionView Performance"
+  short_description: "Cell reuse, diffable data source, batch updates, dynamic height."
+  brand_color: "#F05138"
+  default_prompt: "Use $tableview-performance to review this iOS code for performance."
+
+policy:
+  allow_implicit_invocation: true

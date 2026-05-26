@@ -1,0 +1,8 @@
+interface:
+  display_name: "iOS Performance Profiling"
+  short_description: "Instruments, os_signpost, XCTest metrics, bottleneck workflow."
+  brand_color: "#F05138"
+  default_prompt: "Use $ios-performance-profiling to review this iOS code for performance."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,4 +1,5 @@
 ---
+name: swift-collections-performance
 description: Expert Swift collection performance optimization skill. Covers sorted collections, Copy-On-Write semantics, Red-Black Trees, B-Trees, unsafe buffers, and benchmarking for iOS/macOS. Trigger when user asks to optimize collection code, review data structure choices, implement custom collections, or profile collection performance.
 ---
 

@@ -1,4 +1,5 @@
 ---
+name: app-launch-performance
 description: iOS app launch performance expert. Covers cold vs warm vs hot launch, dyld loading, +load vs +initialize, static vs dynamic linking at launch, pre-main work, main thread work deferral, MetricKit/XCTest metrics, and Launch Time Instruments. Trigger when reviewing AppDelegate, app initialization code, framework linking strategy, +load method usage, or diagnosing slow app launch (>400ms pre-main or main thread work in didFinishLaunching).
 ---
 

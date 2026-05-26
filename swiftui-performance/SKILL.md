@@ -1,4 +1,5 @@
 ---
+name: swiftui-performance
 description: SwiftUI rendering performance expert. Covers view identity and lifetime, body recomputation, @State/@ObservableObject/@Observable granularity, equatable views, lazy containers, GeometryReader cost, task/onAppear timing, view modifier order, drawing performance, and Instruments profiling for SwiftUI. Trigger when reviewing SwiftUI views for unnecessary redraws, slow lists, excessive body calls, state architecture decisions, or animation jank.
 ---
 

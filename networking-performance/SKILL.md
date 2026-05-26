@@ -1,4 +1,5 @@
 ---
+name: networking-performance
 description: iOS networking performance expert. Covers URLSession configuration, HTTP/2, connection reuse, caching (NSURLCache, ETags, Cache-Control), background transfers, request batching, Combine/async-await integration, timeout strategy, retry logic, certificate pinning overhead, and network Instruments profiling. Trigger when reviewing URLSession code, API client architecture, image downloading pipelines, offline support, or diagnosing slow/failing network requests.
 ---
 

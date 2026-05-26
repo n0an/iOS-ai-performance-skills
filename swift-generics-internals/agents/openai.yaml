@@ -1,0 +1,8 @@
+interface:
+  display_name: "Swift Generics Internals"
+  short_description: "Generic signatures, conformance, existentials vs generics."
+  brand_color: "#F05138"
+  default_prompt: "Use $swift-generics-internals to review this iOS code for performance."
+
+policy:
+  allow_implicit_invocation: true

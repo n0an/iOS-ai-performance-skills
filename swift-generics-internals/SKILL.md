@@ -1,4 +1,5 @@
 ---
+name: swift-generics-internals
 description: Swift generics compiler internals expert. Covers generic signatures, requirements, substitution maps, conformance resolution, existential types vs generics, opaque types, conditional conformances, and how the Requirement Machine works. Trigger when reviewing complex generic code, protocol design with associated types, conditional conformances, opaque return types, protocol witness tables, or compiler errors about generic constraints.
 ---
 

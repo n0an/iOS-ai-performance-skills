@@ -1,0 +1,8 @@
+interface:
+  display_name: "Swift Collections Performance"
+  short_description: "Sorted collections, COW, B-trees, unsafe buffers, benchmarking."
+  brand_color: "#F05138"
+  default_prompt: "Use $swift-collections-performance to review this iOS code for performance."
+
+policy:
+  allow_implicit_invocation: true

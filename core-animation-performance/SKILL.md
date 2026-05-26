@@ -1,4 +1,5 @@
 ---
+name: core-animation-performance
 description: Core Animation and rendering performance expert for iOS. Covers GPU vs CPU bottlenecks, offscreen rendering, layer compositing, image I/O, drawing optimizations, and Instruments profiling. Trigger when reviewing UIView/CALayer rendering code, animation performance, scroll jank, offscreen passes, shadow/mask/blur usage, or image loading patterns.
 ---
 

@@ -1,0 +1,7 @@
+{
+  "name": "ios-ai-performance-skills",
+  "description": "iOS performance expert skills: Swift internals, SwiftUI/UIKit rendering, concurrency, memory, networking, app launch, and Instruments-driven profiling.",
+  "version": "1.0.0",
+  "author": "Lev Bondarenko",
+  "repository": "https://github.com/levabond/iOS-ai-performance-skills"
+}

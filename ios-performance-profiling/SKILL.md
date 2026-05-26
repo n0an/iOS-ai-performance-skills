@@ -1,4 +1,5 @@
 ---
+name: ios-performance-profiling
 description: iOS performance profiling and instrumentation expert. Covers the full Instruments toolset (Time Profiler, Allocations, Leaks, Core Animation, Network, Hangs, MetricKit), os_signpost for custom timing, XCTest performance metrics, on-device vs simulator differences, and a systematic workflow for diagnosing unknown bottlenecks. Trigger when profiling any iOS performance issue, setting up benchmarks, measuring regressions, or choosing which Instruments tool to use.
 ---
 

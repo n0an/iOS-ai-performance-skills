@@ -1,4 +1,5 @@
 ---
+name: concurrency-dispatch-performance
 description: iOS concurrency and dispatch performance expert. Covers GCD queues, OperationQueue, async/await, actors, thread explosion, priority inversion, deadlocks, main thread protection, QoS classes, Instruments profiling (Time Profiler, Thread Performance Checker). Trigger when reviewing concurrent code, DispatchQueue usage, actor isolation, async Task hierarchies, performance bottlenecks on main thread, or threading crashes.
 ---
 

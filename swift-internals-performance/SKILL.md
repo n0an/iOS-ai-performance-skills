@@ -1,4 +1,5 @@
 ---
+name: swift-internals-performance
 description: Swift runtime internals and performance expert. Covers stack vs heap allocation, ARC, method dispatch (static/vtable/witness table/message), existentials vs generics, COW, structured concurrency, SIL optimizations, unsafe Swift, and modularization. Trigger when reviewing Swift code for dispatch overhead, ARC traffic, existential boxing costs, protocol design decisions, concurrency correctness, or build time issues.
 ---
 

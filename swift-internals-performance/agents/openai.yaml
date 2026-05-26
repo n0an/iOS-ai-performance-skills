@@ -1,0 +1,8 @@
+interface:
+  display_name: "Swift Internals Performance"
+  short_description: "Stack/heap, ARC, dispatch, SIL, existentials, build perf."
+  brand_color: "#F05138"
+  default_prompt: "Use $swift-internals-performance to review this iOS code for performance."
+
+policy:
+  allow_implicit_invocation: true

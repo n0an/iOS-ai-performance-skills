@@ -1,4 +1,5 @@
 ---
+name: tableview-performance
 description: UITableView and UICollectionView performance expert for iOS. Covers cell reuse, dequeue patterns, data source best practices, dynamic height, batch updates, editing/reordering, and avoiding common scroll jank causes. Trigger when reviewing table/collection view code, cell configuration, data source implementations, insert/delete animations, or scroll performance issues.
 ---
 

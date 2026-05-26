@@ -1,4 +1,5 @@
 ---
+name: memory-management-performance
 description: iOS memory management and ARC performance expert. Covers retain cycles, weak/unowned, closure capture lists, memory warnings, NSCache, image memory, large allocations, heap profiling, Instruments (Allocations, Leaks, Memory Graph Debugger), and memory footprint optimization. Trigger when reviewing closure captures, delegate patterns, cache implementations, memory warnings handling, or diagnosing crashes from memory pressure.
 ---
 

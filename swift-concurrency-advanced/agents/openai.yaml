@@ -1,0 +1,8 @@
+interface:
+  display_name: "Swift Concurrency Advanced"
+  short_description: "Task lifecycle, actor isolation, task groups, custom executors."
+  brand_color: "#F05138"
+  default_prompt: "Use $swift-concurrency-advanced to review this iOS code for performance."
+
+policy:
+  allow_implicit_invocation: true

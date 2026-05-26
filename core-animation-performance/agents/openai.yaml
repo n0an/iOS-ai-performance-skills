@@ -1,0 +1,8 @@
+interface:
+  display_name: "Core Animation Performance"
+  short_description: "GPU/CPU bottlenecks, offscreen rendering, compositing, image I/O."
+  brand_color: "#F05138"
+  default_prompt: "Use $core-animation-performance to review this iOS code for performance."
+
+policy:
+  allow_implicit_invocation: true
